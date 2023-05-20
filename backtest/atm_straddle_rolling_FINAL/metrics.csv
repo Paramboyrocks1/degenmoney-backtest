@@ -1,0 +1,32 @@
+Test Start Date,2022-01-01
+Test End Date,2022-12-31
+Instrument,BANKNIFTY
+Strategy,atm_straddle_rolling_FINAL
+Total Capital,200000
+Notional Value Asm.,1000000
+Leverage,5x
+Traded with Lots,1
+Total Trading days,239
+Win days,109
+Loss Days,130
+Win Rate (%),45.61
+Avg Profit on Profit Days Outlier Adjusted (Rs),4044.3
+Avg Profit on Profit Days (Rs),4190.2
+Avg Loss on Loss Days (Rs),-10415.13
+Average Monthly ROI (%),8.33
+Total Profit (Rs),-897235.11
+Total Profit (%),-448.62
+Max Profit (Rs),15906.03
+Max Loss (Rs),-39183.09
+Max Winning Day,2022-02-15
+Max Losing Day,2022-03-09
+Max Drawdown (Rs),920765.57
+Max Drawdown (%),421.61
+Risk to reward,0.4
+Profit Factor,0.34
+Outlier Adjusted Profit Factor,0.33
+Expectancy,-0.36
+Calmar,-0.97
+Sharpe Ratio (Annualised),-5.81
+Sortino Ratio (Annualised),-6.94
+Unable to trade days,8
