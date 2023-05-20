@@ -1,1 +1,1 @@
-# degenmoney-backtest
+# degen-money-backtest
